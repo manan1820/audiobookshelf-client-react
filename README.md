@@ -1,4 +1,4 @@
-## NextJs client for audiobookshelf
+## NextJs client for audiobookshelf edited
 
 This web client is in active development and will replace the current VueJS web client.
 
